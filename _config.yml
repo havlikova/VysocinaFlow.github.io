@@ -36,12 +36,12 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 
-UA-77435976-1
-google_analytics:
 
-http://vysocinaflow.github.io/
+google_analytics: UA-77435976-1
+
+
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://vysocinaflow.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
