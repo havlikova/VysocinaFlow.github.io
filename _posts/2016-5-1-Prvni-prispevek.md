@@ -1,6 +1,7 @@
 ---
 layout: post
 title: První příspěvek a slavnostní uvedení do provozu!
+tags: Obecné Provozní
 ---
 
 
