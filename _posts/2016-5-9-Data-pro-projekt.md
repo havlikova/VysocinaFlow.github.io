@@ -1,4 +1,9 @@
-Data pro projekt
+---
+layout: post
+title: Data pro projekt
+tags: Provozní
+---
+
 Naše skupina se rozhodla pro následující zdroje informací.
 
  - WIKIPEDIE
