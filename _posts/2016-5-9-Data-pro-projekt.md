@@ -1,4 +1,8 @@
-Data pro projekt
+---
+layout: post
+title: Data pro projekt
+---
+
 Naše skupina se rozhodla pro následující zdroje informací.
 
  - WIKIPEDIE
