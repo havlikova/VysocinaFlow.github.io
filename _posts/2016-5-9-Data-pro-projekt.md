@@ -7,11 +7,8 @@ tags: Provozní
 Naše skupina se rozhodla pro následující zdroje informací.
 
  - WIKIPEDIE
-          - Wikipedie bývá často kritizovaná, jelikož tam píšou informace všichni a ne odborníci. Byla jsem na jedné diskuzi, 
-          které se zúčastnil i Ondřej Šteffl (ředitel společnosti Scio). O Wikipedii zastává dobrý názor - tehdy řekl, že učitelé 
-          nám předávají mnohdy více špatných informací než Wikipedie. Já v ní vidím dobrý informační zdroj. Vše budeme samozřejmě 
-          ověřovat i u jiných zdrojů, musíme se vyvarovat chybám, které by se mohly na webu vyskytnout.
-          - Můžeme zde najít rozsáhlé informace o různých hradech, zámcích a dalších památkách Vysočiny.
+          - Wikipedie bývá často kritizovaná, protože zde nezveřejňují informace jen odborníci ale také laická veřejnost.  Zúčastnila jsem se jedné diskuze, kde byl také Ondřej Šteffl, ředitel společnosti Scio, který zde vyjádřil svůj pozitivní názor týkající se právě Wikipedie. V diskuzi prohlásil, že učitelé nám mnohdy předávají více špatných informací než právě samotná Wikipedie. Já v ní vidím dobrý informační zdroj. Všechny získané informace budeme samozřejměnnověřovat i u jiných zdrojů, musíme se vyvarovat chybám, které by se mohly na webu vyskytnout a poškodit naše uživatele, což nechceme.
+          - Můžeme zde najít rozsáhlé informace o různých hradech, zámcích a dalších zajímavých památkách Vysočiny.
           - Dostupné pod licencí Creative Commons.
 
 - GOOGLE SCHOLAR
