@@ -177,7 +177,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 25px;
   }
 }
 
@@ -198,8 +198,8 @@ img {
   font-family: $helveticaNeue;
   font-style: bold;
   font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-size: 45px;
+  letter-spacing: 3px;
 }
 
 .site-description {
@@ -246,7 +246,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $gray;
+  border-bottom: 5px solid $gray;
 }
 
 .posts > .post:last-child {
