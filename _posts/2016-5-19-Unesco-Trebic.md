@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Data pro projekt
+title: UNESCO Třebíč
 tags: článek
 ---
-
-### UNESCO Třebíč
 
 Třebíč je jedno z okresních měst Vysočiny, které rozhodně stojí za navštívení. Proč? Třeba už jenom kvůli třem UNESCO památkám, 
 které byly přidány na tento seznam v roce 2003. Jmenovitě se jedná o:
@@ -16,8 +14,8 @@ zajímavé expozice - např. Cesty časem, výstava minerálů, výstava dýmek,
 V židovské čtvrti můžete navštívit především Zadní Synagogu a dobové muzeum – Dům Seligmanna Bauera, připomínku židovské 
 komunity, která byla v Třebíči v minulosti velmi početná.
 
-![Bazilika sv. Prokopa](/images/bazilika.jpeg "Bazilika")
-![Židovská čtvrť](/images/zidovskactvrt.jpeg "Židovská čtvrť")
+![Bazilika sv. Prokopa](/images/bazilika.jpg "Bazilika")
+![Židovská čtvrť](/images/zidovskactvrt.jpg "Židovská čtvrť")
 
 [UNESCO Třebíč](http://www.trebic.cz/unesco/)
 [UNESCO Třebíč 2](http://www.unesco-czech.cz/trebic/predstaveni/)
