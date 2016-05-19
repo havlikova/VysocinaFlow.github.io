@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Data pro projekt
+title: Netradiční umění v zatopených kamenolomech
 tags: článek
 ---
 
-### Netradiční umění v zatopených kamenolomech
- 
  Národní park odposlechu u Lipnice nad Sázavou je velmi krásné místo, které schovává hned 3 zajímavosti. Věděli byste jaké?
  Skupina zručných kamenosochařů z SOU Lipnice nad Sázavou zrealizovala projekt - jak oživit tento park pomocí zatopených žulových 
  lomů. Zároveň to má být také připomínka toho, jak na sebe lidé v minulosti donášeli. Do každého ze tří kamenolomů vytesali část 
@@ -15,9 +13,9 @@ tags: článek
  -	Ústa pravdy
  Park je bezesporu výborné místo pro rodinné nebo jiné výlety. Navíc si můžete prohlédnout zámek přímo ve městě.
  
- ![Brestchneiderovo ucho](/images/ucho.jpeg "Breschneiderovo ucho")
- ![Ústa pravdy](/images/ústa.jpeg "Ústa pravdy")
- ![Zlaté oči](/images/oči.jpeg "Zlaté oči")
+ ![Brestchneiderovo ucho](/images/ucho.jpg "Breschneiderovo ucho")
+ ![Ústa pravdy](/images/ústa.jpg "Ústa pravdy")
+ ![Zlaté oči](/images/oči.jpg "Zlaté oči")
  
  [Bretschneiderovo ucho]( http://www.turistika.cz/mista/bretschneiderovo-ucho)
  [Památník odposlechu, Lipnice nad Sázavou]( http://www.kudyznudy.cz/aktivity-a-akce/aktivity/pamatnik-narodniho-odposlechu-v-zatopenych-zulovyc.aspx)
