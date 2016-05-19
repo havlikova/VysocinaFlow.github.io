@@ -4,7 +4,7 @@ title: UNESCO Třebíč
 tags: článek
 ---
 
-Třebíč je jedno z okresních měst Vysočiny, které rozhodně stojí za navštívení. Proč? Třeba už jenom kvůli třem UNESCO památkám, 
+Třebíč je jedno z okresních měst Vysočiny, které rozhodně stojí za navštívení. Proč? Třeba už jenom kvůli UNESCO památkám, 
 které byly přidány na tento seznam v roce 2003. Jmenovitě se jedná o:
 -	Bazilika sv. Prokopa
 -	Židovská čtvrť
